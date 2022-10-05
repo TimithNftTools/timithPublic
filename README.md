@@ -17,3 +17,4 @@
 # 0.0.875-fair
 # 0.0.876
 # 0.1.1 New ui
+# 0.1.11 Bug fix. Allows People to login
