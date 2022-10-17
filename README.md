@@ -19,3 +19,4 @@
 # 0.1.1 New ui
 # 0.1.11 Bug fix. Allows People to login
 # 0.1.12 Bug Fix. Signature Issues
+# 0.1.13 Ui Bug Fix
