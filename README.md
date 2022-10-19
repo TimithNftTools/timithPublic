@@ -20,3 +20,4 @@
 # 0.1.11 Bug fix. Allows People to login
 # 0.1.12 Bug Fix. Signature Issues
 # 0.1.13 Ui Bug Fix
+# 0.1.14 Sig generating bug fix
