@@ -22,3 +22,4 @@
 # 0.1.13 Ui Bug Fix
 # 0.1.14 Sig generating bug fix
 # 0.1.17 Task Update RT gas n'stuff
+# 0.1.18 Settings page
