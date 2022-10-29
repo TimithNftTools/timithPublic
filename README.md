@@ -24,3 +24,4 @@
 # 0.1.17 Task Update RT gas n'stuff
 # 0.1.18 Settings page
 # 0.1.185 Removed History for performance
+# 0.1.187 Fixed nonce too low issue
