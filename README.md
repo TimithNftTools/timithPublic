@@ -25,3 +25,4 @@
 # 0.1.18 Settings page
 # 0.1.185 Removed History for performance
 # 0.1.187 Fixed nonce too low issue
+# 0.1.188 Fixed edge case bug
