@@ -28,3 +28,5 @@
 # 0.1.188 Fixed edge case bug
 # 0.1.191 Support for Cock
 # 0.1.192 Market Fix
+------------------------ Release --------------------
+# 1.0.000 Timith Release
