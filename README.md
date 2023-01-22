@@ -30,3 +30,4 @@
 # 0.1.192 Market Fix
 ------------------------ Release --------------------
 # 1.0.000 Timith Release
+# 1.0.1 Fix Ui bug with Updates and Fix bug for past users
