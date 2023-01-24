@@ -31,3 +31,4 @@
 ------------------------ Release --------------------
 # 1.0.000 Timith Release
 # 1.0.1 Fix Ui bug with Updates and Fix bug for past users
+# 1.0.2 New Transaction mode. Potential Fix to front running.
