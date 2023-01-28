@@ -33,3 +33,4 @@
 # 1.0.1 Fix Ui bug with Updates and Fix bug for past users
 # 1.0.2 New Transaction mode. Potential Fix to front running.
 # 1.0.21 Fix error message bug
+# 1.0.22 Better error messages, ERC 1559 transfer.
