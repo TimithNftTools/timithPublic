@@ -34,3 +34,4 @@
 # 1.0.2 New Transaction mode. Potential Fix to front running.
 # 1.0.21 Fix error message bug
 # 1.0.22 Better error messages, ERC 1559 transfer.
+# 1.0.24 Market bug
