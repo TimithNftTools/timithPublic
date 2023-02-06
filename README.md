@@ -36,3 +36,4 @@
 # 1.0.22 Better error messages, ERC 1559 transfer.
 # 1.0.24 Market bug
 # 1.0.25 Improved Manifold import
+# 1.0.26 Fix rare market bug
