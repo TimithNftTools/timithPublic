@@ -39,3 +39,4 @@
 # 1.0.26 Fix rare market bug
 # 1.0.27 Added Dutch Auction Module.
 # 1.0.271 Fix bignumber DA Bug
+# 1.0.272 OS update
