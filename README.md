@@ -41,3 +41,4 @@
 # 1.0.271 Fix bignumber DA Bug
 # 1.0.272 OS update
 # 1.0.273 Random module
+# 1.0.274 Update os Module or seaport 1.4
