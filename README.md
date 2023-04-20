@@ -43,4 +43,5 @@
 # 1.0.273 Random module
 # 1.0.274 Update os Module or seaport 1.4
 ---------------------- New UI ----------------------------
-# 1.1.0 New Ui with many other improvements
+# 1.1.0 New Ui with many other improvement
+# 1.1.3 Market Update with Mass listing 
