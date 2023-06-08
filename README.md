@@ -46,3 +46,4 @@
 # 1.1.0 New Ui with many other improvement
 # 1.1.3 Market Update with Mass listing 
 # 1.1.31 Fix minor bug
+# 1.1.32 Fix Market Bug
